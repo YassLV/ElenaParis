@@ -1,0 +1,14 @@
+fr:
+  grid:
+    free-delivery:
+      title: Livraison offerte
+      description: Livraison standard offerte pour toute commande
+      icon: arrow
+    free-returns:
+      title: Retours gratuit
+      description: Retours sous 30 jours offerts pour toute commande
+      icon: car
+    the-art-of-offering:
+      title: L'art d'offrir
+      description: Votre commande sublimée dans un coffret Dior iconique et accompagnée d’un message personnalisé
+      icon: gift

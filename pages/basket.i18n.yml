@@ -1,0 +1,7 @@
+fr:
+  basket:
+    title: Votre panier - Elena Paris
+    description: Panier by Elena Paris CO
+    blocs:
+      empty: Votre panier est actuellement vide
+      check-like: Voir les articles aimé
